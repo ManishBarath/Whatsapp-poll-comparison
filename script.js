@@ -20,7 +20,7 @@ setTimeout(() => {
               let cloned = clonedclass.cloneNode(true);
               if (!cloned) return; // Check if cloned is null
               bw.isExportVoted = true;
-              cloned.textContent = "Export votes";
+              cloned.textContent = "Find culp";
               cloned.addEventListener("click", (e) => {
                   console.log("exported");
                   const messageId = e.target.parentElement.parentElement.parentElement.parentElement.parentElement.parentElement.parentElement.dataset.id;

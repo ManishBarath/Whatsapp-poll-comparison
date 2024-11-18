@@ -2,7 +2,8 @@
 
 A Chrome extension that compares WhatsApp group members who have participated in a poll with a user-provided list. It identifies members who have not voted in the poll.
 ## Features
-
+![Screenshot](./ss1.png)
+![Screenshot](./ss2.png)
 - **Easy Comparison:** Compare WhatsApp group members who voted in a poll with a user-provided list.
 - **Unvoted Members:** Displays the names of members who have not voted.
 - **File Support:** Upload user lists in CSV or text file format.
